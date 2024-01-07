@@ -1,10 +1,13 @@
 ---
-title: wsl2上配置hexo博客
-author: Wilson
+title: WSL2环境下Ubuntu部署Hexo博客
+author: yongren
 date: 2023-12-16 14:05:50 +0800
-categories: [七零八落的爱好, Hexo]
-tags: [hexo]
-pin: true
+categories: [七零八落的折腾, Hexo]
+tags: [hexo, nvm, npm, node, wsl2, ubuntu]
+pin: false
+image:
+  path: /images/2023-12-16-install-hexo-on-wsl2-ubuntu/202312171111513.png
+typora-root-url: ./
 ---
 
 > 转载：[博客1:wsl2上配置hexo博客-CSDN博客](https://blog.csdn.net/iamtheplayer/article/details/128317770)
@@ -198,7 +201,7 @@ Windows下的[wsl2](https://so.csdn.net/so/search?q=wsl2&spm=1001.2101.3001.7020
 
    在浏览器中打开`用户名.github.io`
 
-## 参考文档：
+## 参考文档
 
 1. [Ubuntu（WSL）中Node.js环境安装_ZHOUZAIHUI的博客-CSDN博客_wsl 安装node](https://blog.csdn.net/gandongusa/article/details/123010941)
 2. [手把手教你从0开始搭建自己的个人博客 hexo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Yb411a7ty/?vd_source=92b6f4a65908f6aa7ab090b39f23b212)
